@@ -1,4 +1,4 @@
-#  Atlas IT Management — Frontend UI
+#  A.T.L.A.S- Asset Tracking, Logistics and Administration System (Frontend UI).
 
 [![React](https://img.shields.io/badge/React-18.x-61DAFB.svg)]()
 [![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF.svg)]()
