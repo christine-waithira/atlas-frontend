@@ -102,27 +102,27 @@ atlas-frontend/
 
 ### 1. Login Page
 Secure JWT-based authentication screen for accessing the ATLAS dashboard.
-![Login Page](../Downloads/screenshots/login.png)
+![Login Page](screenshots/login_page.png)
 
 ### 2. Administrative Dashboard
 Overview of high-level metrics, active asset statuses, and logistics summaries.
-![Administrative Dashboard](../Downloads/screenshots/dashboard.png)
+![Administrative Dashboard](screenshots/dashboard.png)
 
 ### 3. Add Asset
 Form view for registering new hardware into the inventory system.
-![Add Asset](../Downloads/screenshots/add_asset.png)
+![Add Asset](screenshots/add_asset.png)
 
 ### 4. Search, Filter & Sorting
 Interactive data filtering by category, location, lifecycle state, and keyword search.
-![Search and Filtering](../Downloads/screenshots/search_filter.png)
+![Search and Filtering](screenshots/search_filter.png)
 
 ### 5. Support Ticket
 Ticket creation and detail view linking a hardware asset to a raised support issue.
-![Support Ticket](../Downloads/screenshots/support_ticket.png)
+![Support Ticket](screenshots/support_ticket.png)
 
 ### 6. Ticket Status
 Color-coded status and priority badges tracking a ticket's progression through its lifecycle.
-![Ticket Status](../Downloads/screenshots/ticket_status.png)
+![Ticket Status](screenshots/ticket_status.png)
 
 ---
 
